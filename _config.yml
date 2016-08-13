@@ -1,14 +1,14 @@
-layout_spectrum: 0.5304023630451411
-typography_spectrum: 0.17981243645772338
+layout_spectrum: 0.44306913623586297
+typography_spectrum: 0.5080476885195822
 color:
-  brandStrength: 0.1124778927769512
-  lightness: 0.929274253314361
-  saturation: 0.5933222875464708
-  rhythmicContrast: 0.5897921887226403
+  brandStrength: 0.10800762567669153
+  lightness: 0.41058651078492403
+  saturation: 0.8501466929446906
+  rhythmicContrast: 0.19903921778313816
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
 name: muckaloo
