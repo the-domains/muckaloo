@@ -6,9 +6,9 @@ color:
   saturation: 0.5933222875464708
   rhythmicContrast: 0.5897921887226403
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
 name: muckaloo
