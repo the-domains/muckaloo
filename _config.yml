@@ -1,14 +1,28 @@
+name: muckaloo
+favicon: null
 layout_spectrum: 0.44306913623586297
 typography_spectrum: 0.5080476885195822
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.10800762567669153
-  lightness: 0.41058651078492403
-  saturation: 0.8501466929446906
-  rhythmicContrast: 0.19903921778313816
   brandColors:
     - '#E8E595'
     - '#D0A825'
     - '#40627C'
     - '#26393D'
     - '#FFFAE4'
-name: muckaloo
+  brandStrength: 0.5
+  lightness: 0.41058651078492403
+  saturation: 0.5
+  rhythmicContrast: 0.19903921778313816
+purpose: []
