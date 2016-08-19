@@ -1,7 +1,7 @@
 name: muckaloo
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.33503
+layout_spectrum: 0.36
+typography_spectrum: 0.13596
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#26393D'
     - '#FFFAE4'
   brandStrength: 1
-  lightness: 0.5625
-  saturation: 0
-  rhythmicContrast: 0.19903921778313816
+  lightness: 0.625
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
